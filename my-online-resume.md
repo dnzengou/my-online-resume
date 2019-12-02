@@ -6,8 +6,11 @@
 
 <body>
 
-<iframe src="https://dnzengou.github.io/my-online-resume">
-</iframe>
+<img src="img/cv-nzengou_v21_part1.png">
+<img src="img/cv-nzengou_v21_part2.png">
+<img src="img/cv-nzengou_v21_part3.png">
+<img src="img/cv-nzengou_v21_part4.png">
+<img src="img/cv-nzengou_v21_part5.png">
 
 
 </body>
